@@ -1,0 +1,23 @@
+header {
+    padding: 50px;
+    width: 1200px;
+}
+.he11 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.col-4 {
+    padding: 20px;
+}
+.im {
+    width: 150px;
+}
+.card {
+    border: none;
+    background: #6B856F;
+}
+p {
+    color: white;
+    text-align: center;
+}
